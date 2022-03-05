@@ -2,7 +2,7 @@
 
 ---
 
-## I'm begginer software engeneer
+## I'm begginer software engineer
 
 - I'm student of BSUIR (Faculty of Computer Systems and Networks)
 - I'm currently working on Olympiad Testing system for BSUIR
