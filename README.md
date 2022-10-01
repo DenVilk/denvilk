@@ -1,6 +1,4 @@
-[![Header](https://github.com/DenVilk/denvilk/blob/main/assets/github.png)](https://vk.com/denvilk)
 
----
 
 ## I'm begginer software engineer
 
